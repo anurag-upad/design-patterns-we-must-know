@@ -1,0 +1,14 @@
+
+1. Creational Design Patterns
+Creational patterns often used in place of direct instantiation with constructors. 
+They make the creation process more adaptable and dynamic. 
+In particular, they can provide a great deal of flexibility about 
+which objects are created, how those objects are created, and how they are initialized.
+
+2. Structural Design Patterns
+Structural design patterns show us how to glue different pieces of a system together 
+in a flexible and extensible fashion. These patterns help us guarantee that when one of the parts changes,
+the entire application structure does not need to change.
+
+3. Behavioral Design Patterns
+Behavioral patterns abstract an action we want to take on the object or class that takes the action. 
