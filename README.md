@@ -1,4 +1,4 @@
-# Design Patterns we must know!
+# Design Patterns we must know! <br/>
  Some popular & useful Design Patterns for your application <br/>
  * Singleton - Lazy & Eager Initialization
  * Factory
@@ -7,5 +7,5 @@
  * Decorator
  * Composite
  * Strategy
- * Prototyp
+ * Prototype
  * Observer
